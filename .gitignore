@@ -1,0 +1,16 @@
+# Virtual Environment
+lyric-music-env/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+token.txt
+
+# Temporary Audio Files (Optional, but keeps the repo small)
+# Comment out the line below if you WANT to upload the preview WAVs to GitHub
+song_previews/
+

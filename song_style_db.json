@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Ordinary",
+    "artist": "Alex Warren",
+    "style": {
+      "genre": "Indie Pop",
+      "mood": "Uplifting Emotional",
+      "tempo_bpm": 90,
+      "key": "C Major",
+      "instrumentation": [
+        "Acoustic Guitar",
+        "Piano",
+        "Strings",
+        "Light Drums"
+      ],
+      "vocal_style": "Intimate Heartfelt with a hint of Vulnerability",
+      "production_notes": "Focus on a minimalist arrangement with a mix of digital and organic elements to create a sense of depth and intimacy. Emphasize the emotional delivery of the vocals and the poignant lyrics."
+    },
+    "preview_audio": "song_previews\\Ordinary_Alex_Warren.wav"
+  },
+  {
+    "title": "Arcade",
+    "artist": "Duncan Laurence",
+    "style": {
+      "genre": "Pop",
+      "mood": "Melancholic",
+      "tempo_bpm": 90,
+      "key": "C minor",
+      "instrumentation": [
+        "Piano",
+        "Strings",
+        "Acoustic Guitar"
+      ],
+      "vocal_style": "Emotive, Heartfelt, with subtle vibrato",
+      "production_notes": "Focus on creating a sense of intimacy and longing, with a minimalist arrangement and a prominent piano part"
+    },
+    "preview_audio": "song_previews\\Arcade_Duncan_Laurence.wav"
+  },
+  {
+    "title": "7 Years",
+    "artist": "Lukas Graham",
+    "style": {
+      "genre": "Pop",
+      "mood": "Nostalgic, Sentimental",
+      "tempo_bpm": 80,
+      "key": "C Major",
+      "instrumentation": [
+        "Acoustic Guitar",
+        "Piano",
+        "Strings",
+        "Woodwind"
+      ],
+      "vocal_style": "Emotive, Heartfelt delivery with a touch of melancholy",
+      "production_notes": "Focus on building a sense of intimacy and vulnerability through the arrangement, with a mix that emphasizes the emotional delivery of the vocalist."
+    },
+    "preview_audio": "song_previews\\7_Years_Lukas_Graham.wav"
+  },
+  {
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "style": {
+      "genre": "Pop",
+      "mood": "Romantic",
+      "tempo_bpm": 90,
+      "key": "C Major",
+      "instrumentation": [
+        "Piano",
+        "Acoustic Guitar",
+        "Strings",
+        "Light Percussion"
+      ],
+      "vocal_style": "Emotive, heartfelt, with a focus on storytelling",
+      "production_notes": "Maintain a simple, yet emotive arrangement, with a focus on showcasing the vocal performance and acoustic elements."
+    },
+    "preview_audio": "song_previews\\Perfect_Ed_Sheeran.wav"
+  },
+  {
+    "title": "Slut!",
+    "artist": "Taylor Swift",
+    "style": {
+      "genre": "Pop",
+      "mood": "Sassy, Empowered, Melancholic",
+      "tempo_bpm": 120,
+      "key": "A minor",
+      "instrumentation": [
+        "Electric guitar",
+        "Synthesizers",
+        "Drums",
+        "Bass guitar"
+      ],
+      "vocal_style": "Vocal delivery with a mix of confidence, vulnerability, and a hint of sass",
+      "production_notes": "Focus on creating a driving beat, with a prominent bassline and crisp drum hits. Use of atmospheric synths to enhance the emotional impact of the lyrics. Guitar should be played with a mix of clean and distorted tones to add depth and texture."
+    },
+    "preview_audio": "song_previews\\Slut_Taylor_Swift.wav"
+  }
+]
